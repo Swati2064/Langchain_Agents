@@ -49,15 +49,19 @@ langchain-gemini-dataframe-agent/
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
-| Technology   | Purpose       |
-| ------------ | ------------- |
-| 🐍 Python    | Programming   |
-| 🔗 LangChain | AI Agents     |
-| 🤖 Gemini    | LLM           |
-| 🐼 Pandas    | Data Analysis |
-| 📓 Jupyter   | Development   |
+| Technology              | Purpose                         |
+| ----------------------- | ------------------------------- |
+| 🐍 **Python**           | Programming language            |
+| 🔗 **LangChain**        | AI agent framework              |
+| 🤖 **Google Gemini**    | Large Language Model            |
+| 🐼 **Pandas**           | Data manipulation & analysis    |
+| 📊 **Titanic Dataset**  | Dataset for analysis            |
+| 📓 **Jupyter Notebook** | Development & experimentation   |
+| 🔐 **Python-dotenv**    | Environment variable management |
+| 🐙 **Git & GitHub**     | Version control                 |
+
 
 ---
 
